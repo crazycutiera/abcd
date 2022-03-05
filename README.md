@@ -4,3 +4,5 @@
 ![p2-4](https://github.com/crazycutiera/abcd/blob/main/p2-4.png)
 
 ![TestCases](https://github.com/crazycutiera/abcd/blob/main/TestCases.mp4)
+
+![TestCasesOutput](https://github.com/crazycutiera/abcd/blob/main/TestCasesOutput.gif)
